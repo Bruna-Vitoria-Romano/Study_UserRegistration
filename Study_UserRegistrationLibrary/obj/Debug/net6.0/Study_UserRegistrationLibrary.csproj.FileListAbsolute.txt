@@ -1,0 +1,14 @@
+C:\Projetos\Study_UserRegistration\Study_UserRegistrationLibrary\bin\Debug\net6.0\Study_UserRegistrationLibrary.deps.json
+C:\Projetos\Study_UserRegistration\Study_UserRegistrationLibrary\bin\Debug\net6.0\Study_UserRegistrationLibrary.runtimeconfig.json
+C:\Projetos\Study_UserRegistration\Study_UserRegistrationLibrary\bin\Debug\net6.0\Study_UserRegistrationLibrary.dll
+C:\Projetos\Study_UserRegistration\Study_UserRegistrationLibrary\bin\Debug\net6.0\Study_UserRegistrationLibrary.pdb
+C:\Projetos\Study_UserRegistration\Study_UserRegistrationLibrary\obj\Debug\net6.0\Study_UserRegistrationLibrary.csproj.AssemblyReference.cache
+C:\Projetos\Study_UserRegistration\Study_UserRegistrationLibrary\obj\Debug\net6.0\Study_UserRegistrationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Study_UserRegistration\Study_UserRegistrationLibrary\obj\Debug\net6.0\Study_UserRegistrationLibrary.AssemblyInfoInputs.cache
+C:\Projetos\Study_UserRegistration\Study_UserRegistrationLibrary\obj\Debug\net6.0\Study_UserRegistrationLibrary.AssemblyInfo.cs
+C:\Projetos\Study_UserRegistration\Study_UserRegistrationLibrary\obj\Debug\net6.0\Study_UserRegistrationLibrary.csproj.CoreCompileInputs.cache
+C:\Projetos\Study_UserRegistration\Study_UserRegistrationLibrary\obj\Debug\net6.0\Study_UserRegistrationLibrary.dll
+C:\Projetos\Study_UserRegistration\Study_UserRegistrationLibrary\obj\Debug\net6.0\refint\Study_UserRegistrationLibrary.dll
+C:\Projetos\Study_UserRegistration\Study_UserRegistrationLibrary\obj\Debug\net6.0\Study_UserRegistrationLibrary.pdb
+C:\Projetos\Study_UserRegistration\Study_UserRegistrationLibrary\obj\Debug\net6.0\Study_UserRegistrationLibrary.genruntimeconfig.cache
+C:\Projetos\Study_UserRegistration\Study_UserRegistrationLibrary\obj\Debug\net6.0\ref\Study_UserRegistrationLibrary.dll
